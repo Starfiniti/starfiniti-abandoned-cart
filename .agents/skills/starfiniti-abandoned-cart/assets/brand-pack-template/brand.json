@@ -1,0 +1,53 @@
+{
+	"bg": "#F7F5F3",
+	"surface": "#FFFFFF",
+	"text": "#5C5347",
+	"heading": "#251F18",
+	"muted": "#A59078",
+	"line": "#E3DAD1",
+	"soft": "#F2EDE8",
+	"accent": "#6F5B49",
+	"accent_text": "#FFFFFF",
+	"highlight": "#C2185B",
+	"highlight_soft": "#FDEEF3",
+	"star": "#B08D4F",
+	"footer_bg": "#6F5B49",
+	"footer_text": "#EFE7DC",
+	"font_heading": "'Gilda Display', Georgia, 'Times New Roman', serif",
+	"font_body": "'Helvetica Neue', Helvetica, Arial, sans-serif",
+	"font_css": "@font-face{font-family:'Gilda Display';font-style:normal;font-weight:400;src:url('https://example.com/wp-content/uploads/fonts/gilda-latin-ext.woff2') format('woff2');}",
+	"button_radius": 0,
+	"logo_url": "https://example.com/wp-content/uploads/email-logo.png",
+	"logo_width": 150,
+	"store_name": "Example Store",
+	"store_url": "https://example.com/",
+	"topbar": "Dostava po Sloveniji · Ekspres po Ljubljani v 2 urah",
+	"phone": "+386 40 000 000",
+	"whatsapp": "",
+	"email": "info@example.com",
+	"hours": "Pon–pet 8.00–16.00, sobota 10.00–13.00",
+	"help_text": "Pokličite nas ali pišite na info@example.com.",
+	"trust": [
+		[ "Dostava po vsej Sloveniji", "na izbrani datum" ],
+		[ "100 % garancija", "zadovoljstva" ]
+	],
+	"links": [
+		[ "Pogoji poslovanja", "https://example.com/pogoji-poslovanja/" ],
+		[ "Zasebnost", "https://example.com/politika-zasebnosti/" ]
+	],
+	"languages": {
+		"en": {
+			"topbar": "Delivery across Slovenia · 2-hour express in Ljubljana",
+			"hours": "Mon–Fri 8 am–4 pm, Saturday 10 am–1 pm",
+			"help_text": "Call us or write to info@example.com.",
+			"trust": [
+				[ "Delivery across Slovenia", "on your chosen date" ],
+				[ "100% guarantee", "of satisfaction" ]
+			],
+			"links": [
+				[ "Terms", "https://example.com/en/terms/" ],
+				[ "Privacy", "https://example.com/en/privacy/" ]
+			]
+		}
+	}
+}

@@ -1,0 +1,18 @@
+{
+  "name": "starfiniti-abandoned-cart",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Release tooling for Starfiniti Abandoned Cart for WooCommerce.",
+  "license": "GPL-3.0-or-later",
+  "type": "module",
+  "engines": {
+    "node": ">=22.0.0",
+    "npm": ">=10.0.0"
+  },
+  "scripts": {
+    "package": "node scripts/package.mjs"
+  },
+  "devDependencies": {
+    "archiver": "8.0.0"
+  }
+}
