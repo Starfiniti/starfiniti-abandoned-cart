@@ -82,7 +82,7 @@ final class Brand {
 			'button_radius'  => 0,
 			'logo_url'       => is_string( $logo ) ? $logo : '',
 			'logo_width'     => 150,
-			'store_name'     => wp_specialchars_decode( (string) get_bloginfo( 'name' ), ENT_QUOTES ),
+			'store_name'     => trim( wp_specialchars_decode( (string) get_bloginfo( 'name' ), ENT_QUOTES ) ),
 			'store_url'      => home_url( '/' ),
 			'topbar'         => '',
 			'phone'          => '',
