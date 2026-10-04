@@ -1,0 +1,37 @@
+{
+	"closing": "Toplo,",
+	"labels": {
+		"card_message": "Vaše voščilo",
+		"card_hint": "Dodate lahko še voščilo z osebnim sporočilom. Priložimo ga darilu."
+	},
+	"default": {
+		"e1": {
+			"subject_a": [ "{recipient} še ne ve, kakšno presenečenje prihaja", "Vaše presenečenje je shranjeno" ],
+			"subject_b": "Vaše presenečenje je shranjeno",
+			"preheader": "Vse je pripravljeno, manjka le še en klik.",
+			"eyebrow": "Vaše presenečenje je shranjeno",
+			"title": [ "{recipient} še ne ve, kaj prihaja.", "Vaše presenečenje je skoraj na poti." ],
+			"body": [ "Naročilo ni bilo zaključeno, zato smo košarico shranili točno takšno, kot ste jo sestavili, skupaj z voščilom. Nadaljujete lahko tam, kjer ste ostali." ],
+			"cta": "Pošlji presenečenje",
+			"help": "Vas je kaj ustavilo? Preprosto odgovorite na ta e-mail, pomagamo pri izbiri, dostavi ali plačilu.",
+			"ps": "Za 3 € {noun} pred pošiljanjem fotografiramo, da natanko veste, kaj podarjate."
+		},
+		"e2": {
+			"subject_a": "Bo všeč? Bo prišlo pravočasno? (+ darilo za vas)",
+			"subject_b": "Za vaše presenečenje: {discount} popusta od nas",
+			"preheader": "Vaša osebna koda velja {expiry_until}.",
+			"eyebrow": "Osebno darilo za vas",
+			"title": "Trenutek pri vratih mora biti popoln.",
+			"body": "Ko podarite cvetje, ne kupujete {noun_gen}. Kupujete trenutek, ko se nekdo pri vratih nasmehne. Da bo odločitev lažja, vam podarjamo **{discount} popusta** na vašo košarico.",
+			"objections": [
+				[ "»Bo všeč?«", "Vsak {noun} ima 100 % garancijo zadovoljstva." ],
+				[ "»Bo prišel pravočasno?«", "Po Sloveniji dostavimo na izbrani datum, po Ljubljani tudi isti dan ali v dveh urah." ]
+			],
+			"ps": "Niste prepričani o izbiri? Odgovorite z enim stavkom, komu je {noun} namenjen in ob kateri priložnosti, pa vam predlagam takega, ki bo zadel."
+		},
+		"e3": {
+			"subject_b": [ "{recipient} si to zasluži, popust velja le še danes", "Popust za vaše presenečenje velja le še danes" ],
+			"reframe": "Ni treba posebnega razloga. {noun_cap}, ki pride »kar tako«, pogosto razveseli najbolj."
+		}
+	}
+}
